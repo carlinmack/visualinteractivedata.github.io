@@ -1,5 +1,5 @@
 <a href="#contact">Contact</a> |
-<a href="#research-interests">Reserach Interests</a> |
+<a href="#research-interests">Research Interests</a> |
 <a href="#hort-bio">Short Bio</a> |
 <a href="publications.html">Publications</a> |
 <a href="#awards">Awards</a> |
